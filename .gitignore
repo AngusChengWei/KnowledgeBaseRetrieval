@@ -1,0 +1,14 @@
+# 排除指定的 markdown 文件
+CLAUDE.md
+Doc.md
+RAG_Implementation_Plan.md
+urlchange.md
+
+# 可选：补充通用忽略规则（避免上传无关文件）
+# 环境变量文件
+.env
+# 编辑器配置文件
+.vscode/
+# 临时文件
+*.tmp
+*.log
