@@ -11,6 +11,21 @@ urlchange.md
 .vscode/
 # 依赖文件夹
 node_modules/
+
+# ============ 前端构建产物 ============
+dist/
+
+# ============ Python 后端编译产物 ============
+# 虚拟环境
+.venv/
+venv/
+# Python 字节码缓存
+__pycache__/
+*.pyc
+# Python 构建目录
+*.egg-info/
+build/
+
 # 临时文件
 *.tmp
 *.log
