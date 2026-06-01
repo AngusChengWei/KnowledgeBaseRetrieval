@@ -9,6 +9,8 @@ urlchange.md
 .env
 # 编辑器配置文件
 .vscode/
+# 依赖文件夹
+node_modules/
 # 临时文件
 *.tmp
 *.log
