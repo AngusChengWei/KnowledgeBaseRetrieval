@@ -1,0 +1,8 @@
+{
+  "skills": {
+    "dev-start": {
+      "path": ".claude/skills/dev-start.md",
+      "description": "一键构建并启动前后端开发环境"
+    }
+  }
+}

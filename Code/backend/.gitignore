@@ -1,0 +1,25 @@
+# 环境变量（含 API Key，切勿提交）
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# 数据库文件
+data/app.db
+data/app.db-wal
+data/app.db-shm
+
+# ChromaDB 持久化数据
+chroma_db/
+
+# 上传的知识文档
+knowledge_docs/
+
+# 分析临时文件
+data/analysis_temp/
+
+# 字体文件（需单独下载）
+fonts/*.ttf
